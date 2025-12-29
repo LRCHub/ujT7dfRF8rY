@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Room",
+  "base_artist": "esoragoto",
+  "createdAt": "2025-12-29T14:25:05.732807Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Changing Room",
+      "artist": "Amanda Palmer, Edward Ka-Spel",
+      "has_synced": true,
+      "path": "select/01_The_Changing_Room_Amanda_Palmer,_Edward_Ka-Spel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Changing Room",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/02_The_Changing_Room_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Elephant in the Room (feat. Teddy Swims)",
+      "artist": "Mitchell Tenpenny",
+      "has_synced": true,
+      "path": "select/03_Elephant_in_the_Room_(feat._Teddy_Swims)_Mitchell_Tenpenny.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Elephant in the Room",
+      "artist": "Mitchell Tenpenny",
+      "has_synced": true,
+      "path": "select/04_Elephant_in_the_Room_Mitchell_Tenpenny.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In A Room With You",
+      "artist": "Abbey Cone",
+      "has_synced": true,
+      "path": "select/05_In_A_Room_With_You_Abbey_Cone.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Let's Chase Each Other Around the Room",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/06_Let's_Chase_Each_Other_Around_the_Room_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Let's Chase Each Other Around The Room (Album Version)",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/07_Let's_Chase_Each_Other_Around_The_Room_(Album_Version)_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Room Full of Roses",
+      "artist": "Mickey Gilley",
+      "has_synced": true,
+      "path": "select/08_Room_Full_of_Roses_Mickey_Gilley.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Room Full Of Roses (Album Version)",
+      "artist": "Mickey Gilley",
+      "has_synced": true,
+      "path": "select/09_Room_Full_Of_Roses_(Album_Version)_Mickey_Gilley.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "There’s Always Room",
+      "artist": "Caroline Spence",
+      "has_synced": false,
+      "path": "select/10_There’s_Always_Room_Caroline_Spence.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "When You Walk in the Room",
+      "artist": "Pam Tillis",
+      "has_synced": false,
+      "path": "select/11_When_You_Walk_in_the_Room_Pam_Tillis.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Grey Room",
+      "artist": "Damien Rice",
+      "has_synced": false,
+      "path": "select/12_Grey_Room_Damien_Rice.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In My Room",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/13_In_My_Room_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "In My Room",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/14_In_My_Room_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Marvins Room / Buried Alive Interlude",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/15_Marvins_Room___Buried_Alive_Interlude_Drake.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Marvins Room / Buried Alive Interlude (feat. Kendrick Lamar)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/16_Marvins_Room___Buried_Alive_Interlude_(feat._Kendrick_Lamar)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "From The Window of My Room",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/17_From_The_Window_of_My_Room_Cypress_Hill.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Room",
+      "artist": "esoragoto",
+      "has_synced": false,
+      "path": "select/pl_01_Room_esoragoto.txt"
+    }
+  ]
+}
